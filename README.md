@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building projects using Spring Boot and Java to strengthen backend development skills.<br><br>👯 I’m looking to collaborate on<br>Full-stack or backend development projects using Java, Spring Boot, or related technologies.<br><br>🤝 I’m looking for help with<br>Landing a software development internship or job in backend engineering.<br><br>🌱 I’m currently learning<br>Spring Boot, REST APIs, Hibernate, and database integration using MySQL/PostgreSQL.<br><br>💬 Ask me about<br>Java development, REST APIs, SQL, and anything related to backend systems.<br><br>⚡ Fun fact<br>I enjoy optimizing code for performance and solving real-world problems with clean architecture!<br><br>
+
+🔭 I’m currently working on<br>Spring Boot and Java-based backend projects.<br><br>
+👯 I’m looking to collaborate on<br>Full-stack or backend development using Java and Spring Boot.<br><br>
+🤝 I’m looking for help with<br>Getting an internship or job in backend development.<br><br>
+🌱 I’m currently learning<br>Spring Boot, REST APIs, Hibernate, and database integration.<br><br>
+💬 Ask me about<br>Java backend development, REST APIs, and SQL.<br><br>
+⚡ Fun fact<br>I love optimizing code and building clean backend architectures!<br><br>
+
 
 
 ## 🌐 Socials:
