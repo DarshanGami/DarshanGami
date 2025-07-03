@@ -74,11 +74,6 @@ With strong skills in <b>Data Structures and Algorithms</b>, I enjoy solving com
 
 ---
 
-<h2 align="center">🧩 GitHub Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DarshanGami&theme=github-compact&hide_border=true&area=true&area_color=0d1117" alt="GitHub Activity Graph" width="90%" />
-</p>
 
 ---
 
