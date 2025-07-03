@@ -65,35 +65,25 @@ With strong skills in <b>Data Structures and Algorithms</b>, I enjoy solving com
 
 
 ---
+<h2 align="center">📊 GitHub Statistics</h2>
 
-### 📊 GitHub Stats:
-<div align="left">
-
-**🔹 Edgar Sargsyan's GitHub Statistics**
-
-- ⭐ Stars: `199`
-- 🍴 Forks: `64`
-- 🧠 All-time contributions: `17,254`
-- 🧾 Lines of code changed: `18,965,549`
-- 👁️ Repository views (last 2 weeks): `605`
-- 🗂️ Repositories with contributions: `127`
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DarshanGami&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=true&count_private=true&hide_title=true" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanGami&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&hide_title=true" width="400px" />
+</div>
 
 ---
 
-### 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanGami&layout=compact&theme=tokyonight)
+<h2 align="center">🧩 GitHub Contribution Graph</h2>
 
----
-
-### 🧩 GitHub Contribution Graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DarshanGami&theme=github-compact)
-
----
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DarshanGami&theme=github-compact&hide_border=true&area=true&area_color=0d1117" alt="GitHub Activity Graph" width="90%" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=green" alt="visitor counter"/>
+  <img src="https://komarev.com/ghpvc/?username=DarshanGami&style=flat-square&color=green" alt="Visitor counter"/>
 </p>
-</div>
+
+
