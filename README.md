@@ -3,11 +3,11 @@
 <h3 align="center">[ Aspiring Full Stack Developer || Final Year B.Tech (ICT) Student ]</h3>
 
 <p align="center">
-I'm a final-year B.Tech (ICT) student at <b>Dhirubhai Ambani Institute</b>, passionate about Full Stack Development. I've built several projects using <b>Spring Boot</b>, <b>React.js</b>, and <b>MongoDB</b>.
+I'm a final-year B.Tech (ICT) student at <b>Dhirubhai Ambani University</b>, passionate about Full Stack Development. I've built several projects using <b>Spring Boot</b>, <b>React.js</b>, and <b>MongoDB</b>.
 </p>
 
 <p align="center">
-With strong skills in <b>Data Structures and Algorithms</b>, I enjoy solving complex problems and writing clean, efficient code. I'm currently seeking a Full Stack Developer role to apply my skills and grow as a developer.
+With strong skills in <b>Data Structures and Algorithms</b>, I enjoy solving complex problems and writing clean, efficient code. I'm currently seeking a Software Developer Engineer role to apply my skills and grow as a developer.
 </p>
 
 
