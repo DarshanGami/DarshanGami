@@ -62,19 +62,6 @@ With strong skills in <b>Data Structures and Algorithms</b>, I enjoy solving com
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </p>
 
-
-
----
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarshanGami&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=true&count_private=true&hide_title=true" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanGami&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&hide_title=true" width="400px" />
-</div>
-
----
-
-
 ---
 
 <p align="center">
